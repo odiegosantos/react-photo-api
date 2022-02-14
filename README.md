@@ -1,4 +1,42 @@
-# Getting Started with Create React App
+<div align="center" id="top"> 
+
+  &#xa0;
+
+</div>
+
+<h1 align="center">Pexels photo Api</h1>
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0 | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0;
+</p>
+
+<br>
+
+## :dart: About ##
+
+Pexels photo Api with React
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Develop Components\
+:x: Develop Funcionality\
+:x: Deploy
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [React](https://reactjs.org/)
+- [CSS](https://www.w3.org/standards/webdesign/htmlcss/)
+- [npm](https://www.npmjs.com/)
+
+## :white_check_mark: Requirements ##
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -45,26 +83,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## :checkered_flag: Starting ##
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Made with :heart: by <a href="https://github.com/{{odiegosantos}}" target="_blank">{{Diego Santos}}</a>
 
-### Analyzing the Bundle Size
+&#xa0;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#top">Back to top</a>
