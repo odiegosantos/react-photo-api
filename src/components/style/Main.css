@@ -1,0 +1,50 @@
+.main {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.mainVertical {
+  width: inherit;
+  height: inherit;
+  background: linear-gradient(to top, #111 10%, transparent 90%);
+}
+
+.mainHorizontal {
+  padding-left: 3rem;
+  padding-top: 20rem;
+  display: flex;
+  flex-direction: column;
+}
+.mainName {
+  margin: 1rem 0;
+}
+.mainName h3 {
+  margin-top: 1rem;
+  font-size: 2rem;
+  font-weight: bold; 
+}
+.mainName p {
+  font-weight: bold;
+  margin: 0;
+  font-size: 1.2rem;
+}
+.mainButton a {
+  padding: 1rem 4rem;
+  font-size: 1.5rem;
+  color: #fff;
+  border-radius: 1rem 4rem 4rem 1rem;
+  text-decoration: none;
+  background-color: #fd03038f;
+  transition: 0.5s;
+}
+.mainButton a:hover {
+  opacity: 0.5;
+  border: .1rem solid #fd03038f;
+}
+@media (max-width: 420px){
+  .mainVertical {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+}

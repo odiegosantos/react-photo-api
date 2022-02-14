@@ -1,12 +1,14 @@
+import './style/Header.css';
+
 export default function Header({ black }) {
   return (
     <header className={black ? 'black' : ''}>
       <div className='logo'>
         <a href='#home'>
-          Food from pexels.com
+          Food.
         </a>
       </div>
-      <nav>
+      <nav className='navigation'>
         <ul>
           <li>
             <a href='#home'>

@@ -1,0 +1,30 @@
+footer {
+  height: 10em;
+  border-top: 1px solid #616060;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2em;
+}
+
+footer ul {
+  display: flex;
+  margin-top: 1em;
+}
+
+footer svg {
+  font-size: 1.6em;
+  transform: scale(0.9);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+footer a {
+  color: white;
+}
+
+footer svg:hover {
+  transform: scale(1);
+  color: #7405a0;
+}

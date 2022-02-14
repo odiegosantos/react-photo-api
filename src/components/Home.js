@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import Main from './Main';
+import './style/Home.css';
 
 const API_KEY = '563492ad6f9170000100000168be622f4c4b4b09ae36846d120ad7f6';
 

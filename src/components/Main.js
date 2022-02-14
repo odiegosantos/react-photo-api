@@ -1,19 +1,20 @@
-export default function Principal({ item }) {
+import './style/Main.css';
+
+export default function main({ item }) {
   return (
-    <section className='principal' style={{
+    <section className='main' style={{
       backgroundImage: `url(${item.src.large2x})`
     }}>
-      <div className='principalVertical'>
-        <div className='principalHorizontal'>
-          <div className='principalName'>
-            <p id='topo'>photographer</p>
-            <h3>{item.photographer}</h3>
+      <div className='mainVertical'>
+        <div className='mainHorizontal'>
+          <div className='mainName'>
+            <p id='topo'>Photographer - by Pexels.com</p>
           </div>
-          <div className='principalButton'>
+          <div className='mainButton'>
             <a href={item.photographer_url}
               alt={item.photographer_url}
               target='_blank nooperner'>
-              Visit Pexels Perfil
+              Visit {item.photographer} Perfil
             </a>
           </div>
         </div>
