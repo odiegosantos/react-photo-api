@@ -1,3 +1,12 @@
 .App {
-  text-align: center;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  color: #fff;
+  font-family: sans-serif;
+  background-color: #111;
 }

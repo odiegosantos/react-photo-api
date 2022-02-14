@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Principal from './Principal';
+import Main from './Main';
 
 const API_KEY = '563492ad6f9170000100000168be622f4c4b4b09ae36846d120ad7f6';
 
@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <section id='home'>
       {principal &&
-        <Principal item={principal} />
+        <Main item={principal} />
       }
       <div id='fotosSection' className='fotosSection'>
         {fotoList.photos && (
