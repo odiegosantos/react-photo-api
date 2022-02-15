@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Pexels photo Api</h1>
+<h1 align="center">Food photo - Pexels Api</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -14,7 +14,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0;
 </p>
 
-<br>
+![food](https://user-images.githubusercontent.com/87211192/154062437-1db9febe-40c4-4e94-9eed-2f0d9be3fc90.png)
 
 ## :dart: About ##
 
