@@ -18,13 +18,13 @@
 
 ## :dart: About ##
 
-Pexels photo Api with React
+Project created with react.js using Pexels api to generate food photos randomly by reloading the page
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: Develop Components\
 :heavy_check_mark: Develop Funcionality\
-:x: Deploy
+:heavy_check_mark: Deploy - https://react-photo-api.vercel.app/
 
 ## :rocket: Technologies ##
 
