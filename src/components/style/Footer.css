@@ -1,22 +1,22 @@
 footer {
-  height: 10em;
-  border-top: 1px solid #616060;
+  height: 8rem;
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  font-size: 1.2em;
+  font-size: 1.4rem;
+  border-top: 1px solid #fff;
 }
 
 footer ul {
   display: flex;
-  margin-top: 1em;
+  margin-top: 1rem;
 }
 
 footer svg {
-  font-size: 1.6em;
-  transform: scale(0.9);
-  transition: 0.5s;
+  font-size: 2rem;
+  margin: 0 .5rem;
+  transition: 0.3s;
   cursor: pointer;
 }
 
@@ -25,6 +25,11 @@ footer a {
 }
 
 footer svg:hover {
-  transform: scale(1);
-  color: #7405a0;
+  transform: scale(1.2);
+  color: #fd03038f;
+}
+.name:hover {
+  transition: all 1s;
+  opacity: 0;
+  cursor: pointer;
 }
