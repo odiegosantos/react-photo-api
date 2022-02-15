@@ -11,7 +11,7 @@
 
 .mainHorizontal {
   padding-left: 3rem;
-  padding-top: 20rem;
+  padding-top: 30rem;
   display: flex;
   flex-direction: column;
 }
@@ -32,8 +32,7 @@
   padding: 1rem 4rem;
   font-size: 1.5rem;
   color: #fff;
-  border-radius: 1rem 4rem 4rem 1rem;
-  text-decoration: none;
+  border-radius: 1rem;
   background-color: #fd03038f;
   transition: 0.5s;
 }
@@ -46,5 +45,14 @@
     display: flex;
     justify-content: center;
     text-align: center;
+  }
+  .mainHorizontal {
+    padding-left: 1rem;
+    align-items: flex-end;
+  }
+  .mainButton a {
+    font-size: 1rem;
+    display: flex;
+    flex-wrap: wrap;
   }
 }

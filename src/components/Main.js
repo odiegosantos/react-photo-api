@@ -8,13 +8,15 @@ export default function main({ item }) {
       <div className='mainVertical'>
         <div className='mainHorizontal'>
           <div className='mainName'>
-            <p id='topo'>Photographer - by Pexels.com</p>
+            <p id='topo'>Photo by. &nbsp;
+              {item.photographer}
+            </p>
           </div>
           <div className='mainButton'>
             <a href={item.photographer_url}
               alt={item.photographer_url}
               target='_blank nooperner'>
-              Visit {item.photographer} Perfil
+              Visit Perfil
             </a>
           </div>
         </div>

@@ -1,7 +1,7 @@
 header {
   position: fixed;
   width: 100vw;
-  height: 100px;
+  height: 6rem;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -15,7 +15,7 @@ header.black {
 }
 
 .logo a {
-  color: #fd03038f;
+  color: hsla(0, 98%, 50%, 0.561);
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -33,6 +33,7 @@ header.black {
 }
 
 .navigation ul li:hover {
+  color: #fff;
   border-bottom: 1px solid #fff;
 }
 

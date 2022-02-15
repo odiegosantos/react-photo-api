@@ -2,9 +2,9 @@ footer {
   height: 10em;
   border-top: 1px solid #616060;
   display: flex;
+  align-items: center;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   font-size: 1.2em;
 }
 
@@ -21,7 +21,7 @@ footer svg {
 }
 
 footer a {
-  color: white;
+  color: #fff;
 }
 
 footer svg:hover {
