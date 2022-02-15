@@ -23,7 +23,7 @@ Pexels photo Api with React
 ## :sparkles: Features ##
 
 :heavy_check_mark: Develop Components\
-:x: Develop Funcionality\
+:heavy_check_mark: Develop Funcionality\
 :x: Deploy
 
 ## :rocket: Technologies ##
